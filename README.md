@@ -20,6 +20,9 @@ This is my personal portfolio website, built using React, showcasing my projects
 - Contact form
 - Links to social media profiles
 
+## Demo
+Click (https://portfolio-bgdmzaqxj-devsingh28s-projects.vercel.app/)
+
 ## Technologies Used
 
 - React
